@@ -38,5 +38,5 @@ We can remotely access the smbclient via -- smbclient //[IP]/[SHARE]
 <br>
 
 Its important to always check for misconfigurations such as using<br>
-	Username = Anonymous
+	Username = Anonymous<br>
 	Password = " "
