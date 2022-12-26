@@ -25,5 +25,5 @@ Enum 4 Linux Options<br>
 	-N             get namelist dump (different from -U and-M)  
 	-S             get sharelist  
 	-P             get password policy information  
-	-G             get group and member list
+	-G             get group and member list<br>
 	-a             all of the above (full basic enumeration)
