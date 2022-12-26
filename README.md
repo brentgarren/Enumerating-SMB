@@ -30,7 +30,8 @@ Enum 4 Linux Options<br>
 	
 We can remotely access the smbclient via -- smbclient //[IP]/[SHARE] 
 	Followed by the tags:
-
+	
+	smbclient //[IP]/[SHARE] -U [name] -P [port]
 	-U [name] : to specify the user
 
 	-p [port] : to specify the port
