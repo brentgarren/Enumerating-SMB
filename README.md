@@ -28,4 +28,4 @@ Enum 4 Linux Options<br>
 	-G             get group and member list<br>
 	-a             all of the above (full basic enumeration)<br>
 	
-We can access the smbclient via -- smbclient //[IP]/[SHARE] 
+We can remotely access the smbclient via -- smbclient //[IP]/[SHARE] 
