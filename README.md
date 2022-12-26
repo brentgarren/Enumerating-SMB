@@ -35,3 +35,8 @@ We can remotely access the smbclient via -- smbclient //[IP]/[SHARE]
 	-U [name] : to specify the user
 
 	-p [port] : to specify the port
+<br>
+
+Its important to always check for misconfigurations such as using
+	Username = Anonymous
+	Password = " "
