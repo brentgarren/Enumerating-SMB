@@ -26,4 +26,6 @@ Enum 4 Linux Options<br>
 	-S             get sharelist  
 	-P             get password policy information  
 	-G             get group and member list<br>
-	-a             all of the above (full basic enumeration)
+	-a             all of the above (full basic enumeration)<br>
+	
+We can access the smbclient via -- smbclient //[IP]/[SHARE] 
